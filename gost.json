@@ -1,0 +1,8 @@
+{
+    "Debug": false,
+    "Retries": 0,
+    "ServeNodes": [
+        "http2://test:test@:443"
+    ]
+
+}
